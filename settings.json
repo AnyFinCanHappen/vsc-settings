@@ -1,0 +1,37 @@
+{
+  "editor.tabSize": 2,
+    "vim.handleKeys": {
+        "<C-v>":false,
+        "<C-c>":false,
+        "<C-x>":false, 
+        "<C-space>": false,
+        "<C-alt>": false
+    },
+    "editor.minimap.enabled": false,
+    "[html]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "angular2-switcher.openSideBySide": true,
+    "vim.autoindent": false,
+    "prettier.printWidth": 120,
+    "prettier.singleQuote": true,
+    "prettier.trailingComma": "none",
+    "prettier.arrowParens": "avoid",
+    "editor.bracketPairColorization.enabled": true,
+    "npm.keybindingsChangedWarningShown": true,
+    "vim.highlightedyank.enable": true,
+    "vim.normalModeKeyBindings": [
+    
+    ],
+    "omnisharp.sdkPath": "/usr/local/share/dotnet/sdk",
+    "omnisharp.sdkVersion": "6.0.406",
+    "terminal.integrated.fontFamily": "'MesloLGS NF'",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "tailwindCSS.experimental.configFile": null,
+    "tailwind-fold.autoFold": false,
+    "tailwind-fold.foldedText": "class"
+}
